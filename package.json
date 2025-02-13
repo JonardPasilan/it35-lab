@@ -3,12 +3,12 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-"homepage":"https://JonardPasilan.github.io/it35-lab/",
+  "homepage":"https://JonardPasilan.github.io/it35-lab/",
   "scripts": {
 
     "predeploy":"npm run build",
-   "deploy":"gh-pages -d dist",
-
+    "deploy":"gh-pages -d dist",
+  
 
     "dev": "vite",
     "build": "tsc && vite build",
