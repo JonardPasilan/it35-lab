@@ -71,7 +71,7 @@ const Login: React.FC = () => {
             }}
           >
             <img 
-             src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94629f58-f59a-4002-b521-ae8322a061ea/dek9l19-41638857-a8d0-4dcf-8447-47f34e4302ca.png/v1/fill/w_894,h_894,q_70,strp/gojo_chibi_by_anyadesu_dek9l19-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzk0NjI5ZjU4LWY1OWEtNDAwMi1iNTIxLWFlODMyMmEwNjFlYVwvZGVrOWwxOS00MTYzODg1Ny1hOGQwLTRkY2YtODQ0Ny00N2YzNGU0MzAyY2EucG5nIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.kvu81QwA_mm0wIvT_dKXE-HNi52Y2BdKPazNfrap6x4" 
+             src="https://i.pinimg.com/736x/f4/b6/6a/f4b66a73b1c00e84d0f42342043f6fe5.jpg" 
              alt="User Avatar" 
              style={{ width: '100%', height: '100%' }} 
             />
